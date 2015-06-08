@@ -1,0 +1,13 @@
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\bin\Debug\ProjektGrafy.exe.config
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\bin\Debug\ProjektGrafy.exe
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\bin\Debug\ProjektGrafy.pdb
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.csprojResolveAssemblyReference.cache
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.Form1.resources
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.Properties.Resources.resources
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.csproj.GenerateResource.Cache
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.exe
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.pdb
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\bin\Debug\ProjektGrafy.exe.manifest
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\bin\Debug\ProjektGrafy.application
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.exe.manifest
+E:\Nauka\C#\Projekty\ProjektGrafy\ProjektGrafy\obj\Debug\ProjektGrafy.application
